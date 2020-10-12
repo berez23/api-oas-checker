@@ -12,7 +12,7 @@ on:
     # The branches below must be a subset of the branches above
     branches: [master]
   schedule:
-    - cron: '35 11 * * *'
+    - cron: '41 11 * * *'
 
 jobs:
   analyze:
